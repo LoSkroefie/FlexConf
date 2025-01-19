@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexConf.Core", "FlexConf.Core\FlexConf.Core.csproj", "{1B9A2F7A-8F5D-4F9B-9E1A-7C7E7F5D8F3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexConf.CLI", "FlexConf.CLI\FlexConf.CLI.csproj", "{2C9B2F7A-8F5D-4F9B-9E1A-7C7E7F5D8F3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexConf.Tests", "FlexConf.Tests\FlexConf.Tests.csproj", "{3D9B2F7A-8F5D-4F9B-9E1A-7C7E7F5D8F3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B9A2F7A-8F5D-4F9B-9E1A-7C7E7F5D8F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9A2F7A-8F5D-4F9B-9E1A-7C7E7F5D8F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9A2F7A-8F5D-4F9B-9E1A-7C7E7F5D8F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9A2F7A-8F5D-4F9B-9E1A-7C7E7F5D8F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C9B2F7A-8F5D-4F9B-9E1A-7C7E7F5D8F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9B2F7A-8F5D-4F9B-9E1A-7C7E7F5D8F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9B2F7A-8F5D-4F9B-9E1A-7C7E7F5D8F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9B2F7A-8F5D-4F9B-9E1A-7C7E7F5D8F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D9B2F7A-8F5D-4F9B-9E1A-7C7E7F5D8F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9B2F7A-8F5D-4F9B-9E1A-7C7E7F5D8F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9B2F7A-8F5D-4F9B-9E1A-7C7E7F5D8F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9B2F7A-8F5D-4F9B-9E1A-7C7E7F5D8F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

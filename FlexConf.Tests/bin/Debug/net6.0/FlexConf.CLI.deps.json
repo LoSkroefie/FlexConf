@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FlexConf.CLI/1.0.0": {
+        "dependencies": {
+          "FlexConf.Core": "1.0.0"
+        },
+        "runtime": {
+          "FlexConf.CLI.dll": {}
+        }
+      },
+      "FlexConf.Core/1.0.0": {
+        "runtime": {
+          "FlexConf.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FlexConf.CLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FlexConf.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
